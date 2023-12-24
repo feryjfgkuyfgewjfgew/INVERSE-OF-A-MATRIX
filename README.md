@@ -24,7 +24,8 @@ print(inv)
 
 ## Output:
 
-![Alt text](<Screenshot 2023-12-24 061642.png>)
+![Screenshot 2023-12-24 061642](https://github.com/feryjfgkuyfgewjfgew/INVERSE-OF-A-MATRIX/assets/150319377/9f99aa52-01fc-4cac-9c9f-23301f3ea920)
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
